@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    calculator_image = 'yxos/calculator'
+    calculator_image = 'igorbzk/calculator'
     
     sum_image = 'igorbzk/sum'
     sub_image = 'igorbzk/sub'
